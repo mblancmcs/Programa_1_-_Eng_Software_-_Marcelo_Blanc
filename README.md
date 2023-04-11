@@ -6,6 +6,7 @@ O programa informa o maior dos dois números enviados.
 
 - HTML
 - JavaScript
+Foi utilizada a stack acima, devido a facilidade de rodar em qualquer dispositivo, necessitando apenas de um navegador.
 
 ## Execução do programa
 
